@@ -9,7 +9,7 @@ I've also had some tinkering with Android Studio for mobile apps, Unity and Unre
 My path going forward is not only to develop skills for a career in Full Stack Development, Mobile or Game Development. But to enjoy this as a hobby and experiment with many passion projects. Software Development challenges me mentally yet at the same time I enjoy it to where it doesn't feel like work!
 
 Find me on LinkedIn: https://www.linkedin.com/in/steven-de-thierry-67902624a
-Email: steven.ej.dethierry@gmail.com
+
 
 <!--
 **Kymarndo/Kymarndo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
